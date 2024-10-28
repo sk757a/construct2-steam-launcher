@@ -2,7 +2,7 @@ The goal of this project is to fix freezes of Construct 2 in Steam and demonstra
 
 ## Installation
 
-Replace `Construct2.exe` file in `...\steamapps\common\Construct2` folder.
+Replace `Construct2.exe` file located in `...\steamapps\common\Construct2` folder with [released exe file](https://github.com/sk757a/construct2-steam-launcher/releases).
 
 ## Building
 
